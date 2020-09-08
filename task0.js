@@ -2,9 +2,9 @@ let uppercase = [];
 let plaintext = [];
 let INGend = [];
 let result = {
-    uppercasetext: uppercase,
-    palindron: plaintext,
-    INGing: INGend,
+    uppercased: uppercase,
+    palindrome: plaintext,
+    ing: INGend,
 
 }
 
